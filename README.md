@@ -1,5 +1,5 @@
 # SatraAcademy
-Vulnerable C application to practice reverse engineering &amp; exploit development for courses like the EXP-312 / OSED.
+Vulnerable C application to practice reverse engineering &amp; exploit development for courses like the EXP-301 / OSED.
 
 
 ## Instructions
